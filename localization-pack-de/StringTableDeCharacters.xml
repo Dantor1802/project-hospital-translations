@@ -26,7 +26,7 @@
             <GameDBLocalizedString>      <LocID>OCCUPATION_COOK</LocID>                 <Text>Koch</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OCCUPATION_FACTORY_WORKER</LocID>       <Text>Fabrikant</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OCCUPATION_CASHIER</LocID>              <Text>Kassierer</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>OCCUPATION_ATHLETE</LocID>              <Text>Leistungssportler</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>OCCUPATION_ATHLETE</LocID>              <Text>Profisportler</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OCCUPATION_ACROBAT</LocID>              <Text>Trapezkünstler</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OCCUPATION_RETIRED</LocID>              <Text>Im Ruhestand</Text>  </GameDBLocalizedString>
 
